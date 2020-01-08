@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
     <key>CFBundleDisplayName</key>
-    <string>caronasJM</string>
+    <string>CaronasJM</string>
     <key>CFBundleIdentifier</key>
-    <string>com.rodrigosa.caronasJM</string>
+    <string>com.rodrigosa.Caronas-JM</string>
     <key>CFBundleShortVersionString</key>
     <string>1.0</string>
     <key>CFBundleVersion</key>
